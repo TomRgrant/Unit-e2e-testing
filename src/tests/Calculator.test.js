@@ -98,7 +98,7 @@ describe('Calculator', () => {
   //   fireEvent.click(button1)
   //   fireEvent.click(equal)
   //   fireEvent.click(clear)
-  //   expect(container.calculatedTotal).
+  //   expect(previousTotal.textContent).
   //   toEqual('5');
   // })
 })
